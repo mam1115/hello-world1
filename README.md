@@ -1,2 +1,2 @@
 # hello-world1
-for big ideas and competing and info
+for big ideas and computing and info
